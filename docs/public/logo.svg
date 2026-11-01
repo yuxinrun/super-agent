@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="64" height="64" role="img" aria-label="Super-agent 讲透">
+  <circle cx="512" cy="512" r="306" fill="none" stroke="#0A958A" stroke-width="36" stroke-dasharray="128 84" stroke-linecap="round"/>
+  <circle cx="512" cy="206" r="64" fill="#0A958A"/>
+  <circle cx="512" cy="512" r="152" fill="#0E201C"/>
+  <path d="M414 512h68l30-62 44 124 30-62h56" fill="none" stroke="#F6F4EE" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

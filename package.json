@@ -1,0 +1,19 @@
+{
+  "name": "super-agent-handbook",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Super-agent 讲透手册 — 持续在线、会自己找活干的 Agent 架构",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource-variable/manrope": "^5.3.0"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
